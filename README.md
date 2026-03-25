@@ -1,7 +1,7 @@
 ## DriveIT - Databassystem för körskola
 
-Slutprojekt i databaser 
-skapat av Zahra Hadadi, Gabriella Ottosson och Johanna Swann YH25
+# Slutprojekt i databaser 
+# skapat av Zahra Hadadi, Gabriella Ottosson och Johanna Swann YH25
 
 ## Projektbeskrivning
 
