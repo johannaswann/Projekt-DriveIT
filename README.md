@@ -49,12 +49,12 @@ Databasen innehåller:
 
 ## Dataintegritet
 
-NOT NULL för att säkerställa att viktiga fält alltid fylls i
-UNIQUE för att undvika dubbletter (t.ex. email)
-CHECK för att validera värden (t.ex. status och pris > 0)
-DEFAULT -värden (t.ex. status = ‘Bokad’)
-FOREIGN KEY för att säkerställa korrekta relationer mellan tabellerna
-TRIGGER som hjälper till att förhindra felaktiga bokningar
+* NOT NULL för att säkerställa att viktiga fält alltid fylls i
+* UNIQUE för att undvika dubbletter (t.ex. email)
+* CHECK för att validera värden (t.ex. status och pris > 0)
+* DEFAULT -värden (t.ex. status = ‘Bokad’)
+* FOREIGN KEY för att säkerställa korrekta relationer mellan tabellerna
+* TRIGGER som hjälper till att förhindra felaktiga bokningar
 
 ## Prestanda och säkerhet
 
